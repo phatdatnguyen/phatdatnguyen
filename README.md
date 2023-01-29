@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @phatdatnguyen
 - 👀 I’m interested in machine learning, image, video and audio processing
-- 📫 How to reach me nguyenphatdat43@gmail.com
+- 📫 How to reach me datnp@hcmute.edu.vn
