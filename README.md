@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @phatdatnguyen
-- 👀 I’m interested in machine learning, image, video and audio processing
-- 📫 How to reach me datnp@hcmute.edu.vn
+- 👋 Hi, my name is Dat Nguyen. I am a lecturer at Ho Chi Minh City University of Technology and Education (HCMUTE)
+- 👀 I’m interested in data science, machine learning, image, video and audio processing
+- 📫 How to reach me: datnp@hcmute.edu.vn
